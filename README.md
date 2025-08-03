@@ -90,9 +90,9 @@ You are the Smart Home Energy Advisor, an AI assistant powered by IBM Granite mo
 
 ## 🧠 Challenges & Learnings
 
-* **Challenge:** The initial agent design provided analysis without asking for user context, which felt unnatural. This was solved by refining the agent instructions to prioritize clarifying questions.
+* **Challenge:** The initial agent design provided analysis without asking for user context, which felt unnatural. This was solved by refining the agent instructions to prioritise clarifying questions.
 
-* **Learning:** Effective AI agent behavior is highly dependent on precise and detailed prompt engineering. Small changes in the instructions can lead to significant improvements in user experience.
+* **Learning:** Effective AI agent behaviour is highly dependent on precise and detailed prompt engineering. Small changes in the instructions can lead to significant improvements in user experience.
 ## 🛠️ Technology Stack
 
 * **IBM Watsonx Agent Lab:** For rapid prototyping and building the agent.
@@ -121,14 +121,14 @@ You are the Smart Home Energy Advisor, an AI assistant powered by IBM Granite mo
 
 * It empowers users to lower their bills by pinpointing high-cost appliances and wasteful energy habits. 
 
-* By analyzing usage patterns, the agent provides personalized, data-driven recommendations, not generic advice. 
+* By analysing usage patterns, the agent provides personalised, data-driven recommendations, not generic advice. 
 
 * Ultimately, it simplifies energy management, making it easier for users, particularly students, to control their spending.
 
 ## 🙏 Acknowledgments
 
-This project was created as part of the **IBM SkillsBuild Academic Hackathon**.
+This project was created as part of the **IBM SkillsBuild internship** by the **Edunet Foundation**.
 
-A special thanks to our instructor, **Aswini Kumar sir**, for his guidance and support.
+A special thanks to our instructor, **Aswini Kumar sir**, for his guidance and support throughout the internship.
 
 Powered by IBM Cloud, Watsonx AI Studio & Agent Lab.
